@@ -1,7 +1,6 @@
 ## E L L A \_ T A N T T U
 
-<sub>WEB DEVELOPER | GRAPHIC DESIGNER | </sub>
-<sub>[epicodus project portfolio](https://ellajtanttu.github.io/epicodus-portfolio/)</sub>
+<sub>WEB DEVELOPER | GRAPHIC DESIGNER</sub>
 <br/>
 
 <p>
@@ -19,6 +18,8 @@ Dedicated to creating quality visual experiences in all forms—
 from web to print, and everything in between. I bring to the
 table a proven history of 6+ years composing effective design across
 multiple platforms. I hope to fold in my new skills as a developer and coder to enhance this existing knowledge in design.
+<br/>
+<sub>[epicodus project portfolio](https://ellajtanttu.github.io/epicodus-portfolio/)| [graphic design portfolio](https://www.ellatanttudesign.com/)</sub>
 
 ---
 
