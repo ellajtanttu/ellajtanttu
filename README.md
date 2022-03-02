@@ -19,7 +19,7 @@ from web to print, and everything in between. I bring to the
 table a proven history of 6+ years composing effective design across
 multiple platforms. I hope to fold in my new skills as a developer and coder to enhance this existing knowledge in design.
 <br/>
-<sub>[epicodus project portfolio](https://ellajtanttu.github.io/epicodus-portfolio/)| [graphic design portfolio](https://www.ellatanttudesign.com/)</sub>
+<sub>[EPICODUS PROJECT PORTFOLIO](https://ellajtanttu.github.io/epicodus-portfolio/)| [GRAPHIC DESIGN PORTFOLIO](https://www.ellatanttudesign.com/)</sub>
 
 ---
 
