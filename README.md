@@ -1,6 +1,6 @@
 ## E L L A \_ T A N T T U
 
-<sub>WEB DEVELOPER | GRAPHIC DESIGNER</sub>
+<sub>WEB DEVELOPER | GRAPHIC DESIGNER | </sub>
 <sub>[epicodus project portfolio](https://ellajtanttu.github.io/epicodus-portfolio/)</sub>
 <br/>
 
