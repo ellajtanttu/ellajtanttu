@@ -23,11 +23,3 @@ table a proven history of 6+ years composing effective design across
 multiple platforms. I hope to fold in my new skills as a developer and coder to enhance this existing knowledge in design.
 <br/>
 <sub>[EPICODUS PROJECT PORTFOLIO](https://ellajtanttu.github.io/epicodus-portfolio/) | [GRAPHIC DESIGN PORTFOLIO](https://www.ellatanttudesign.com/)</sub>
-
----
-
-<br/>
-
-![Ella's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellajtanttu&show_icons=true&theme=gotham)
-
-<br/>
